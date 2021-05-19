@@ -1,12 +1,14 @@
 [
 	{
-		"nome":
-		"descrição": 
-		"logo":
-		"genero":
-		"anoLancamento": 
-	  	  "nome":
-	  	  "descricao": 
-	  	  "logo": 
+		"nome": "Resident Evil Village",
+		"descrição": ,
+		"logo": ,
+		"genero": "Terror",
+		"anoLancamento": "2021",
+		"produtora": {
+			"nome": "Capcom",
+			"descricao": "...",
+			"logo": "https://w7.pngwing.com/pngs/143/843/png-transparent-viewtiful-joe-street-fighter-ii-the-world-warrior-capcom-electronic-entertainment-expo-capcom-logo-blue-game-text-thumbnail.png"
+		}	
 	}
 ]
